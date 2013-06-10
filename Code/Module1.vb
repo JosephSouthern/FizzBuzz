@@ -4,7 +4,7 @@ Imports FizzBuzz.Model.Output
 Module Module1
 
     Sub Main()
-
+        'This is a test
         Console.WriteLine("Original FizzBuzz.  3=Fizz 5=Buzz 3&5=FizzBuzz")
         OriginalFizzBuzz()
         Console.Write("Press Enter to continue program:")
